@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quicklearn</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Warm Up</string>
+    <string name="title_section2">Mid Lesson</string>
+    <string name="title_section3">Wrap Up</string>
+
+</resources>
